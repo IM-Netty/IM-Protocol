@@ -1,6 +1,12 @@
 # IM-Protocol
 使用Netty 实现的IM 系统-协议文档
 
+
+暂时使用链接方式发布，迟点完善了在push 上来
+
+http://note.youdao.com/yws/public/redirect/share?id=498a93622eff881782374d7418062ab8&type=false 
+
+
 > 实现一个IM 系统，需要自定义一个协议，协议包括协议头(header)和协议体(body)，模仿TeamTalk 的通信协议我们也定义协议
 
 ## 协议头
